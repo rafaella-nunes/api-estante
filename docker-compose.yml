@@ -1,0 +1,10 @@
+version: '3.2'
+
+services:
+  node:
+    build:
+      dockerfile: Dockerfile
+      context: .
+    ports:
+      - "4200:4200"
+  
