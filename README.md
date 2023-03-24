@@ -6,8 +6,10 @@
 
 #### - Clone o repositório para sua máquina
 
-#### - Execute o comando "npm install" para instalar depedências
+#### - Execute o comando "docker compose up --build" para instalar depedências e executar a api na porta 4200
 
-#### - Execute o comando "node 20111225.js" para executar a api
+#### - Utilize o insomnia ou software similar para observar os endpoints
 
-#### - Utilize o insomnia ou app similar para observar os endpoints
+##### - Para inserir novos livros utilize a url '/books'
+
+##### - Para visualizar livros na biblioeca utilize a url '/books'
