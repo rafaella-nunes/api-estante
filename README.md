@@ -6,7 +6,7 @@
 
 #### - Clone o repositório para sua máquina
 
-#### - Execute o comando "docker compose up --build" para instalar depedências e executar a api na porta 4200
+#### - Execute o comando "docker compose up --build" no terminal para instalar depedências e executar a api na porta 4200
 
 #### - Utilize o insomnia ou software similar para observar os endpoints
 
